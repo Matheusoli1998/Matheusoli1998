@@ -15,7 +15,7 @@ I'm **`Matheus Oliveira`** an 25 y.o. Web development student at Vanvouver.
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
 - 🐍 I’m looking to collaborate on **html/css/python** projects.
-- 👨‍💻 All of my projects are available at https://github.com/Matheusoli1998)
+- 👨‍💻 All of my projects are available at https://github.com/Matheusoli1998
 - 💬 Ask me about **Css* or **html**.
 - 🐧 I like **Mac/OS**.
 - 📫 How to reach me **Matheus.alveso1998@gmail.com*
